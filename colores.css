@@ -1,0 +1,36 @@
+body {
+   background-color: rgb(54, 97, 134)
+}
+
+.listado {
+   display: flex;
+   justify-content:center
+}
+
+ul {
+   list-style: none;
+   margin-left: 90px;
+}
+
+li {
+   display: flex;
+   justify-content: center;
+   margin-right: 250px;
+}
+
+img {
+   position: relative;
+   left: 40%;
+}
+
+h1 {
+   display: flex;
+   justify-content: center;
+}
+
+h2 {
+   display: flex;
+   justify-content: center;
+}
+
+git commit -m "commit"
